@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+#button-1 {
+    background-color: black;
+    color: white;
+}
+
+#button-2 {
+    background-color: hsl(60, 100%, 50%);
+}
