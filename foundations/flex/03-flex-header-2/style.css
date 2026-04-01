@@ -56,6 +56,7 @@ ul {
   gap: 8px;
 }
 
+.left-side,
 .right-side {
   display: flex;
   gap: 16px;
