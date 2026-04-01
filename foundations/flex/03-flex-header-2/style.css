@@ -13,7 +13,6 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
-  align-items: center;
   justify-content: space-between;
   padding: 8px;
 }
@@ -53,11 +52,12 @@ ul {
   padding: 0;
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
 }
 
 .left-side,
 .right-side {
   display: flex;
+  align-items: center;
   gap: 16px;
 }
